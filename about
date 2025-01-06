@@ -31,9 +31,9 @@
 				<nav id="menu">
 					<ul class="links">
 						<li><a href="/">Home</a></li>
-						<li><a href="Films.html">Films</a></li>
+						<li><a href="/films">Films</a></li>
 						<li><p class="currentlyOnPage">About</p></li>
-						<li><a href="Contact.html">Contact</a></li>
+						<li><a href="/contact">Contact</a></li>
 					</ul>
 					<ul class="icons">
 						<li><a href="https://www.instagram.com/hasanalrash/" target="_blank" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
